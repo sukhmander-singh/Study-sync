@@ -1,7 +1,7 @@
 # Study Sync Project
 
 ## Introduction
-Welcome to my Study Sync project! This project is a part of my coding journey where I am learning HTML and CSS to create a simplified version of the Amazon website.
+Welcome to my Study Sync project! This project is a part of my coding journey where I am learning HTML and CSS.
 
 ## Technologies Used
 - HTML
